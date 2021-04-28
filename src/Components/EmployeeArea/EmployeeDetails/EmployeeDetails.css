@@ -1,0 +1,41 @@
+.EmployeeDetails {
+  height: 100%;
+  text-align: right;
+  display: inline-flex;
+  flex-direction: row;
+  margin: 3%;
+  font-size: larger;
+}
+
+.EmployeeDetails > div > p {
+  margin-top: 20%;
+  padding-right: 15%;
+  width: 100%;
+  height: 100%;
+}
+
+.EmployeeDetails img {
+  width: 250px;
+}
+
+.EmployeeDetails a {
+  display: inline-flex;
+  flex-flow: column-reverse;
+}
+
+.EmployeeDetails Button {
+  width: 150px;
+  margin: 10px;
+  height: 40px;
+}
+
+.EmployeeDetails .Btn-link {
+  text-decoration: none;
+  height: 60px;
+}
+
+.EmployeeDetails .Btn-link > button {
+  width: 150px;
+  margin: 10px;
+  height: 40px;
+}

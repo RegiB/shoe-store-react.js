@@ -1,0 +1,26 @@
+.Purchase {
+  height: 100%;
+  margin: 5%;
+}
+
+.Headline {
+  font-size: xx-large !important;
+  font-weight: bold !important;
+}
+
+.Button{
+/* width: 20%; */
+}
+
+.FormBox {
+  display: inline-block;
+  /* text-align: center; */
+  border: 1px solid goldenrod;
+  padding: 0 10px;
+  /* margin: 10px; */
+  border-radius: 10px;
+  /* box-shadow: 5px 5px 10px; */
+  /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif; */
+  width: 25%;
+  height: 80%;
+}

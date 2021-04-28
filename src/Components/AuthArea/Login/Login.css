@@ -1,0 +1,23 @@
+.Login {
+  height: 100%;
+  margin-top: 2%;
+}
+
+.Login .HeadMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Login .FieldText2 {
+  width: 300px;
+}
+
+.Login button {
+  width: 300px;
+  font-weight: bold;
+  background-color: black;
+}
+
+.Login button:hover {
+  background-color: darkgoldenrod;
+}

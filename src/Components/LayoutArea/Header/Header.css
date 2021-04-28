@@ -1,0 +1,26 @@
+.Header {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+
+.Header > a {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-decoration: none;
+  /* background-color: teal; */
+}
+
+.Header h1 {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-weight: 800;
+  color: darkgoldenrod;
+  font-size: xxx-large;
+}
+
+.HeadPic {
+  width: 30px;
+}

@@ -1,0 +1,15 @@
+.ForSaleBrand {
+  height: 100%;
+  display: inline-block;
+  border-top: solid gray 1px;
+  margin-top: 1%;
+  padding-top: 2%;
+  margin-bottom: 0%;
+  padding-bottom: 5%;
+  border-bottom: solid gray 1px;
+}
+
+.ForSaleBrand > img {
+  /* border: 2px solid black; */
+  width: 1200px;
+}

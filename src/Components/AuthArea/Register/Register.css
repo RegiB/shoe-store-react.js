@@ -1,0 +1,27 @@
+.Register {
+  height: 100%;
+  margin-top: 2%;
+}
+
+.Register .HeadMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Register .FieldText1 {
+  width: 200px;
+}
+
+.Register .FieldText2 {
+  width: 413px;
+}
+
+.Register button {
+  width: 413px;
+  font-weight: bold;
+  background-color: black;
+}
+
+.Register button:hover {
+  background-color: darkgoldenrod;
+}

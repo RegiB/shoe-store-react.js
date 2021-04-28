@@ -1,0 +1,12 @@
+.Clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3px;
+  position: fixed;
+  right: 1%;
+  direction: ltr;
+  font-size: 10pt;
+  font-weight: bold;
+  /* border-bottom: burlywood solid 2px; */
+}

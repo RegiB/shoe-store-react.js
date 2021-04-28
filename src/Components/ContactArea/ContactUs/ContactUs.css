@@ -1,0 +1,39 @@
+.ContactUs {
+  height: 100%;
+}
+
+.ContactUs .Main1 {
+  display: inline-flex;
+  flex-direction: column;
+  width: 25%;
+  float: left;
+  margin-left: 20%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+}
+
+.ContactUs .Main2 {
+  margin-top: 2%;
+  width: 30%;
+  padding: 0% 0% 2% 4%;
+  margin-right: 15%;
+  border-left: gray solid 1px;
+}
+
+.ContactUs .HeadMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.ContactUs span {
+  font-weight: bold;
+}
+
+.ContactUs button {
+  font-weight: bold;
+  background-color: black;
+}
+
+.ContactUs button:hover {
+  background-color: darkgoldenrod;
+}

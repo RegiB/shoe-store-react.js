@@ -1,0 +1,22 @@
+.Home {
+  height: 100%;
+}
+
+.MainContainer {
+  margin-top: 0%;
+  padding-top: 3%;
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+}
+
+.ImgContainer {
+  float: right;
+  width: 50%;
+}
+
+.ImgContainer2 {
+  float: left;
+  width: 50%;
+  padding-bottom: 2%;
+}

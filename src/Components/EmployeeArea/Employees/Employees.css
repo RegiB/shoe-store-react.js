@@ -1,0 +1,13 @@
+.Employees {
+  height: 100%;
+  margin-top: 2%;
+  margin-right: 5%;
+  display: inline-flex;
+  flex-flow: wrap;
+  align-items: center;
+  margin-bottom: 2%;
+}
+
+.Employees a {
+  color: black;
+}

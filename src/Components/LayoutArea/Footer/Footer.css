@@ -1,0 +1,15 @@
+.Footer {
+    height: 100%;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.Footer > h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    color: black;
+    
+    
+}

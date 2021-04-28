@@ -1,0 +1,25 @@
+.About {
+  height: 100%;
+  margin: 2%;
+}
+
+.About div p {
+  margin-top: 10%;
+  display: inline-flex;
+  flex-direction: column;
+  font-size: larger;
+  font-weight: bolder;
+  padding: 0% 1% 2% 1%;
+  width: 50%;
+  background-color: hsl(0, 0%, 96%, 0.8);
+}
+.About div {
+  height: 600px;
+  background-image: url("../../../Assets/Images/other/store.jpg");
+  
+}
+
+.About img {
+  height: 450px;
+
+}

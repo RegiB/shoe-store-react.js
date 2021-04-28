@@ -1,0 +1,32 @@
+.UpdateEmployee {
+  height: 100%;
+  margin: 2% 0% 2% 0%;
+}
+
+.UpdateEmployee .HeadMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.UpdateEmployee .FieldText {
+  width: 223px;
+}
+
+.UpdateEmployee Button {
+  width: 150px;
+  margin: 10px;
+  height: 40px;
+}
+
+.UpdateEmployee .Btn-link {
+  text-decoration: none;
+  height: 60px;
+}
+
+.UpdateEmployee .Btn-link > button {
+  width: 150px;
+  margin: 10px;
+  height: 40px;
+  background-color: black;
+  color: whitesmoke;
+}

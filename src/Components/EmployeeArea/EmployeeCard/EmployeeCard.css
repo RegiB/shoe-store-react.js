@@ -1,0 +1,17 @@
+.EmployeeCard {
+  height: 100%;
+  font-size: smaller;
+}
+
+.EmployeeCard span {
+  height: 100%;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.EmployeeCard img{
+    height: 150px;
+    width: 130px;
+    /* margin: 8%; */
+}
+

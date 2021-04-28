@@ -1,0 +1,11 @@
+.RandomImg {
+  height: 100%;
+margin-left: 0%;
+padding-left: 0%;
+}
+
+.RandomImg img {
+  /* display: inline-block; */
+  width: 550px;
+  height: 350px;
+}

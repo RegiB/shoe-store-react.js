@@ -1,0 +1,11 @@
+.FunImage {
+  height: 100%;
+  margin: 3%;
+  padding: 3%;
+}
+
+.FunImage img {
+  display: inline-block;
+  width: 400px;
+  height: 600px;
+}
